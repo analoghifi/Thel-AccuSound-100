@@ -4,7 +4,7 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
   
 Class-A-Mode possible | Bridge Mode possible  
   
-unbalanced (asymmetrical) audio input / not DC-coupled (has an input Cap)
+unbalanced (single-ended/asymmetrical) audio input / not DC-coupled (has an input Cap (KP film/foil))
 
 \*(depends on the supply voltage only)  
 \*\*(bridge mode and short time only ➔ see <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_2003-2015.png">Table 1</a> / <a href="/docs/original german (not corrected)/power_output_table_version_1995-2003.jpg">Table 2</a>)  
