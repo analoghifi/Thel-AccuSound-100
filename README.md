@@ -18,8 +18,11 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
 * exchange of the 2 very good tungsten-silver double-(delayed-)contact relay (burn-off resistant) with 2 normal "high-current" relays
   
 ## last version sold from 2003 til 2015:  
-<img width="800px" src="/hardware/last version 2003-2015/accuSound_100__2011-2015.jpg" />
+<img src="/hardware/last version 2003-2015/accuSound_100__2011-2015.jpg" />
   
 https://web.archive.org/web/20071014012558/http://www.thel-audioworld.de/module/acuso/acuso.htm  
 https://web.archive.org/web/20120130132153/http://thel-audioworld.de/module/acuso/acuso.htm  
-https://web.archive.org/web/20150216004915/http://www.thel-audioworld.de/module/acuso/acuso.htm
+https://web.archive.org/web/20150216004915/http://www.thel-audioworld.de/module/acuso/acuso.htm  
+  
+## older version sold from 1995 til 2003:  
+<img src="/hardware/version 1995-2003/accusound_1995-2003.jpg" />
