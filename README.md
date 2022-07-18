@@ -15,7 +15,9 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
 * therefore reduced power output (compare <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_1995-2003.jpg">old</a> with <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_2003-2015.png">new</a>)
 * slightly different schematic (compare <a href="/hardware/version 1995-2003/accusound_old_schematic.jpg">old</a> with <a href="/hardware/last%20version%202003-2015/accuSound_100_schematic_2004.jpg">new</a>)
 * different pcb layout
-* exchange of the 2 very good tungsten-silver double-(delayed-)contact relay (burn-off resistant) with 2 normal "high-current" relays
+* exchange of the 2 very good tungsten-silver double-(delayed-)contact relay (burn-off resistant) with 2 normal "high-current" relays  
+* using the very good CDE film/foil KP-caps (WPP-Series) almost anywhere in the circuit
+* introducing silver mica bypass caps at some sensible places in the circuit
   
 ## last version sold from 2003 til 2015:  
 <img src="/hardware/last version 2003-2015/accuSound_100__2011-2015.jpg" />
@@ -25,4 +27,6 @@ https://web.archive.org/web/20120130132153/http://thel-audioworld.de/module/acus
 https://web.archive.org/web/20150216004915/http://www.thel-audioworld.de/module/acuso/acuso.htm  
   
 ## older version sold from 1995 til 2003:  
-<img src="/hardware/version 1995-2003/accusound_1995-2003.jpg" />
+<img src="/hardware/version 1995-2003/accusound_1995-2003.jpg" />  
+  
+https://web.archive.org/web/20020608091959/http://thel-audioworld.de:80/module/acuso/acuso.htm
