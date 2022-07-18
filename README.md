@@ -11,7 +11,7 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
 \*\*(bridge mode and short time only ➔ see <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_2003-2015.png">Table 1</a> / <a href="/docs/original german (not corrected)/power_output_table_version_1995-2003.jpg">Table 2</a>)  
   
 #### changes from "version 1995-2003" to "last version 2003-2015":  
-* introducing source resistors
+* introducing source resistors (for better stability / better thermal behaviour / better currenct and load sharing)
 * therefore reduced power output (compare <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_1995-2003.jpg">old</a> with <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_2003-2015.png">new</a>)
 * slightly different schematic (compare old with new)
 * different pcb layout
