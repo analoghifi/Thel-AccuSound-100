@@ -12,7 +12,7 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
   
 #### changes from "version 1995-2003" to "last version 2003-2015":  
 * introducing source resistors
-* therefore reduced power output (compare old with new)
+* therefore reduced power output (compare <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_1995-2003.jpg">old</a> with <a href="/docs/original%20german%20(not%20corrected)/power_output_table_version_2003-2015.png">new</a>)
 * slightly different schematic (compare old with new)
 * different pcb layout
 * exchange of the 2 very good tungsten-silver double-(delayed-)contact relay (burn-off resistant) with 2 normal "high-current" relays
