@@ -13,7 +13,7 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
 #### changes from "version 1995-2003" to "last version 2003-2015":  
 * introducing source resistors (for better stability / better thermal behaviour / better currenct and load sharing)
 * therefore reduced power output (compare <a href="/docs/3) version 1995-2003/power_output_table_version_1995-2003.jpg">old</a> with <a href="/docs/4.) final version 2003-2015/power_output_table_version_2003-2015.png">new</a>)
-* slightly different schematic (compare <a href="/hardware/version 1995-2003/accusound_old_schematic.jpg">old</a> with <a href="/hardware/4.) final version 2003-2015/accuSound_100_schematic_2004.jpg">new</a>)
+* slightly different schematic (compare <a href="/hardware/3) version 1995-2003/accusound_old_schematic.jpg">old</a> with <a href="/hardware/4.) final version 2003-2015/accuSound_100_schematic_2004.jpg">new</a>)
 * different pcb layout
 * replacement of the 2 very good tungsten-silver double (two-step)\*\*\* contact relays (erosion-resistant) with 2 normal "high-current" relays  
 * replacing almost all foil caps (including the input cap) with the very good CDE film/foil KP-caps (<a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/CDE_series_WPP.pdf">WPP-Series</a>)
