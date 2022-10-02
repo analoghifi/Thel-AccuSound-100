@@ -19,7 +19,7 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
 * replacing almost all foil caps (including the input cap) with the very good CDE film/foil KP-caps (<a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/CDE_series_WPP.pdf">WPP-Series</a>)
 * introducing silver mica bypass caps at some sensible places in the circuit
   
-\*\*\*(see here -> <a href="/docs/components datasheets/special relay version 1995-2003/Weidmueller-Relay.md">Relay type: Weidmüller "RCL Inrush"</a>)
+\*\*\*(see here -> <a href="/docs/components datasheets/special relay version 1995-2003">Relay type: Weidmüller "RCL Inrush"</a>)
   
 .
   
