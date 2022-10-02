@@ -8,12 +8,12 @@ Thel AccuSound 100 audio power amplifier module (mono single channel)
 * integrated (DC-) protection & anti-pop delay -circuit with relays
   
 \*(depends on the supply voltage only)  
-\*\*(bridge mode and short time only ➔ see <a href="/docs/4.) final version 2003-2015/power_output_table_version_2003-2015.png">Table 1</a> / <a href="/docs/3) version 1995-2003/power_output_table_version_1995-2003.jpg">Table 2</a>)  
+\*\*(bridge mode and short time only ➔ see <a href="/docs/4.) final version 2003-2015/power_output_table_version_2003-2015.png">Table 1</a> / <a href="/docs/3) version 1995-2003/power_output_table_version_1995-2003__V2.jpg">Table 2</a>)  
   
 #### changes from "3) version 1995-2003" *[AccuSound Pro]* to "4) final version 2003-2015" *[AccuSound 100]*:  
 * introducing source resistors (for better stability / better thermal behaviour / better currenct and load sharing)
-* therefore reduced power output (compare <a href="/docs/3) version 1995-2003/power_output_table_version_1995-2003.jpg">old</a> with <a href="/docs/4.) final version 2003-2015/power_output_table_version_2003-2015.png">new</a>)
-* slightly different schematic (compare <a href="/hardware/3) version 1995-2003/accusound_old_schematic.jpg">old</a> with <a href="/hardware/4.) final version 2003-2015/accuSound_100_schematic_2004.jpg">new</a>)
+* therefore reduced power output (compare <a href="/docs/3) version 1995-2003/power_output_table_version_1995-2003__V2.jpg">old</a> with <a href="/docs/4.) final version 2003-2015/power_output_table_version_2003-2015.png">new</a>)
+* slightly different schematic (compare <a href="/hardware/3) version 1995-2003/accusound_version_1995-2003_schematic_V1.jpg">old</a> with <a href="/hardware/4.) final version 2003-2015/AccuSound_100_schematic_2004.jpg">new</a>)
 * different pcb layout
 * replacement of the 2 very good tungsten-silver double (two-step)\*\*\* contact relays (erosion-resistant) with 2 normal "high-current" relays  
 * replacing almost all foil caps (including the input cap) with the very good CDE film/foil KP-caps (<a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/CDE_series_WPP.pdf">WPP-Series</a>)
