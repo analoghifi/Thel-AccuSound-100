@@ -1,6 +1,9 @@
-this 3) version 1995-2003 was named and sold as \"AccuScound Pro\"  
-or later as \"AccuScound Pro 100\" & \"AccuScound Pro 101\"  
+this 3) version 1995-2003 was named and sold as *\"AccuScound Pro\"*  
+or later as *\"AccuScound Pro 100\"* & *\"AccuScound Pro 101\"*  
+  
+normal Version: *Accusound pro 100* = with normal 1% (metal film) resistors  
+more expensive version: *Accusound pro 101* = \"with low noise Welwyn-resistors 0.1% TCR:15ppm\" (later: \"with low noise non-magnetic TKD-resistors 0.5% TCR:25ppm\")  
   
 Input capacitor:  
-either the white Mundorf "MCap audiophile" **M**KP caps [250V or 400V] (on AccuScound Pro 100)  
-or the (better) black Mundorf "MCap audiophile" KP caps [100V] (on AccuScound Pro 101)  
+either the white Mundorf \"MCap audiophile\" **M**KP caps [250V or 400V] *(on AccuScound pro 100)*  
+or the (better) black Mundorf \"MCap audiophile\" KP caps [100V] *(on AccuScound pro 101)*  
