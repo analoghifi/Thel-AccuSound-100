@@ -1,7 +1,7 @@
 Accusound 100 = with normal 1% (metal film) resistors  
 Accusound 10**1** = \"with low noise non-magnetic TKD-resistors 0.5% TCR:25ppm\" (until 2005: \"with low noise Welwyn-resistors 0.1% TCR:15ppm\")  
   
-4.1) initial version (using Mundorf \"MCap\" **M**KP caps)
+4.1) initial version (using the black Mundorf \"MCap audiophile\" KP caps)
   
 4.2) in 2006 there was a small layout change on the PCB to give space for the new better KP (film/foil) input cap (CDE WPP-series) paralleled with a small silver mica cap.  
 (at the same time the two small holes at the bottom of the PCB disappeared)  
