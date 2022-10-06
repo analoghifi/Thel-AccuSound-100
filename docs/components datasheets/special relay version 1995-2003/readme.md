@@ -1,6 +1,6 @@
 ### Relay type: Weidmüller \"RCL Inrush Power\":  
 In the \"RCL Inrush\" version, the relays offer a NO contact (AgSnO) with a nominal current of 16 A and have a making capacity of 120 A for 20 ms.  
-In the \"RCL Inrush Power\" version, the contact is designed as a double contact – a standard (AgSnO) contact and a tungsten leading contact ("pre-make contact").
+In the **\"RCL Inrush Power\"** version, the contact is designed as a double contact – a standard (AgSnO) contact and a tungsten leading contact ("pre-make contact").
 
 The tungsten leading contact closes earlier than the standard (AgSnO) contact when it is switched on. The latter is spared from the switch-on peaks. Only the lower continuous current flows through the standard (AgSnO) contact. At the moment of switch-off, the tungsten leading contact opens correspondingly later and thus keeps switch-off peaks away from the standard contact.
 
