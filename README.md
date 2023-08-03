@@ -1,5 +1,6 @@
 # Thel AccuSound 100
 Thel AccuSound 100 audio power amplifier module (mono single channel)  
+using vertical MOSFETs (often generalised as "[HEXFET](https://sound-au.com/articles/hexfet.htm)s")
 * RMS power output from 20W up to 500W\* (1000W\*\*) | 7Hz...1,5MHz [-3dB]  |  0,4µs
 * Class-A-Mode possible | Bridge Mode possible  
 * unbalanced (single-ended/asymmetrical) audio input  
