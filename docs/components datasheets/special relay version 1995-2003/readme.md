@@ -1,5 +1,6 @@
 ### Special relais Version with "double contact":  
-In the AccuSound [version from 1995 to 2003](https://github.com/analoghifi/Thel-AccuSound-100/tree/main/hardware/3%29%20version%201995-2003) (and also in the "final version 2003-2015" until the middle of the year 2010) Thel uses a special relais where the contact is designed as a double contact – a standard (AgSnO) contact and a [tungsten](https://en.wikipedia.org/wiki/Tungsten) (german: "Wolfram") leading contact ("pre-make contact").  
+In the AccuSound [version from 1995 to 2003](https://github.com/analoghifi/Thel-AccuSound-100/tree/main/hardware/3%29%20version%201995-2003) (and also in the "final version 2003-2015" until the middle of the year 2010)  
+Thel uses a special relais where the contact is designed as a double contact – a standard (AgSnO) contact and a [tungsten](https://en.wikipedia.org/wiki/Tungsten) (german: "Wolfram") leading contact ("pre-make contact").  
   
 The tungsten leading contact closes earlier than the standard (AgSnO) contact when it is switched on. The latter is spared from the switch-on peaks. Only the lower continuous current flows through the standard (AgSnO) contact. At the moment of switch-off, the tungsten leading contact opens correspondingly later and thus keeps switch-off peaks (and sparks) away from the standard contact.  
   
