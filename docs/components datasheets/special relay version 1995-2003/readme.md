@@ -12,7 +12,7 @@ alternatively you may use [Weidmueller RCLS3T024(W)](https://github.com/analoghi
 
 ----  
    
-<img src="https://github.com/analoghifi/Thel-AccuSound-100/blob/main/docs/components%20datasheets/special%20relay%20version%201995-2003/Original%3A%20Hengstler%20H-550/Relais_Hengstler_H-550-1759.jpg" alt="">
+<img src="https://github.com/analoghifi/Thel-AccuSound-100/blob/main/docs/components%20datasheets/special%20relay%20version%201995-2003/Original%3A%20Hengstler%20H-550/Relay_Hengstler_H-550-1759.jpg" alt="">
 
 
 
