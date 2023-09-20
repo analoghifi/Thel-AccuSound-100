@@ -16,7 +16,7 @@ using vertical MOSFETs (often generalised as "[HEXFET](https://sound-au.com/arti
 * therefore reduced power output (compare <a href="/docs/3) version 1995-2003/power_output_table_version_1995-2003__V2.jpg">old</a> with <a href="/docs/4.) final version 2003-2015/power_output_table_version_2003-2015.png">new</a>)
 * slightly different schematic (compare <a href="/hardware/3) version 1995-2003/accusound_version_1995-2003_schematic_V1.jpg">old</a> with <a href="/hardware/4.) final version 2003-2015/AccuSound_100_schematic_2004__corrected.jpg">new</a>)
 * different pcb layout
-* in the middle of 2010: replacement of the 2 very good tungsten-silver double (two-step)\*\*\* contact relays (erosion-resistant) with 2 normal "high-current" relays  
+* in the middle of 2010: replacement of the 2 very good tungsten-silver double (two-step)\*\*\* contact relays (erosion-resistant) with 2 normal "high-current" relays (Schrack RP3SL024)  
 * replacing almost all foil caps (including the input cap) with the very good CDE film/foil KP-caps (<a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/CDE_series_WPP.pdf">WPP-Series</a>)
 * introducing silver mica bypass caps at some sensible places in the circuit
   
