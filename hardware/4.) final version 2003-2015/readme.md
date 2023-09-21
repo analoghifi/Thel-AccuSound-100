@@ -8,7 +8,7 @@ Accusound 10**1** = \"with low noise non-magnetic TKD-resistors 0.5% TCR:25ppm\"
 * the two small holes at the bottom of the PCB disappeared  
 * using the 2mm gold-plated (lathe made) brass solder pins (<a href="https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/staeubli_42.0062_brass_pin_2mm__DE_EN_FR.pdf">Stäubli 42.0062</a>)
   
-**4.2.2)** in the middle of 2010: replacement of the 2 very good <a href="/docs/components datasheets/special relay version 1995-2003">tungsten-silver double (two-step) contact relays</a> (erosion-resistant) with 2 normal "high-current" relays (Schrack RP3SL024)
+**4.2.2)** in the middle of 2010: replacement of the 2 very good <a href="/docs/components datasheets/special relay version 1995-2003">tungsten-silver double (two-step) contact relays</a> (erosion-resistant) with 2 normal "high-current" relays (<a href="https://github.com/analoghifi/Thel-AccuSound-100/blob/main/docs/components%20datasheets/relay_Schrack_RP3SL024.pdf">Schrack RP3SL024</a>)
   
 **4.3)** in 2011 there was again a small layout change on the PCB to give the input capacitor even more space (compare the pics in the lower right corner),  
 with that change the (more expensive) Accusound 10**1** got a (larger dimensions) 3.3µF input capacitor as a 'bonus' (instead of the normal 2.2µF of the Accusound 100)  
