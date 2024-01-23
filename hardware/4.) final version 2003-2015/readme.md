@@ -4,7 +4,7 @@ Accusound 10**1** = \"with low noise non-magnetic TKD-resistors 0.5% TCR:25ppm\"
 **4.1)** initial version (using the black Mundorf \"MCap audiophile\" KP caps [100V])
   
 **4.2.1)** in 2006:
-* mall layout change on the PCB to give space for the new better KP (film/foil) input cap (CDE <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/CDE_series_WPP.pdf">WPP-Series</a>) paralleled with a small silver mica cap.  
+* small layout change on the PCB to give space for the new better KP (film/foil) input cap (CDE <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/CDE_series_WPP.pdf">WPP-Series</a>) paralleled with a small silver mica cap.  
 * the two small holes at the bottom of the PCB disappeared  
 * using the 2mm gold-plated (lathe made) brass solder pins (<a href="https://github.com/analoghifi/Thel-AccuSound-100/blob/main/docs/components%20datasheets/staeubli_42.0062_brass_pin_2mm__DE_EN_FR.pdf">Stäubli 42.0062</a>)
   
