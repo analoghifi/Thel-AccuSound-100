@@ -13,9 +13,9 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 #### C2,C3,C9: 
 in the original, mica capacitors from the US company "Cornell Dubilier Electronics" (CDE) are used for C2, C3 and C9  
 the [CD15-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mica%20glimmer/CDE_Silver_Mica_series_STD-DIPPED.pdf) or the better [CD17 Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mica%20glimmer/CDE_Series_CD17_CD18_high_frequency.pdf) is used:  
-* C2, C3 = 47pF / 1% / 500V / 6.9mm pitch / Type-No. CD15ED470FO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15ED470FO3?qs=9iVfQKk8ifFmXLRqX5bCNQ%3D%3D))  
+* C2, C3 = 47pF / 1% / 500V / 5.9mm pitch / Type-No. CD15ED470FO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15ED470FO3?qs=9iVfQKk8ifFmXLRqX5bCNQ%3D%3D))  
 or better CD17ED470JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17ED470JO3F?qs=nnhpPVbCybXjnSWSlsUlRA%3D%3D))
-* C9 = 10pF / 5% / 500V / 6.9mm pitch / Type-No. CD15CD100JO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15CD100JO3?qs=m9iv7GyUMnFXRIC2%252BbnrrQ%3D%3D))  
+* C9 = 10pF / 5% / 500V / 5.9mm pitch / Type-No. CD15CD100JO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15CD100JO3?qs=m9iv7GyUMnFXRIC2%252BbnrrQ%3D%3D))  
 or better CD17CD100JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17CD100JO3F?qs=PXF%252Blbo4VJ7Sv5GDGZWsoQ%3D%3D))
 
 Alternatively:  
@@ -26,7 +26,7 @@ They perform very well for high frequencies and are a very good alternative to t
 The dielectric material is important here: Do NOT use ceramic capacitors with a dielectric other than C0G(NP0) !  
   
 The footprint on my PCB is prepared for both pitches:  
-the odd 6.9mm for the Micas as well as the 5 or 7.5mm for alternative capacitors  
+the odd 5.9mm for the Micas as well as the 5mm or 7.5mm for alternative capacitors  
  
 ----  
   
