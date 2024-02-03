@@ -16,7 +16,7 @@ the [CD15-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and
 or better CD17ED470JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17ED470JO3F?qs=nnhpPVbCybXjnSWSlsUlRA%3D%3D))
 * C9 = 10pF / 5% / 500V / 6.9mm pitch / Type-No. CD15CD100JO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15CD100JO3?qs=m9iv7GyUMnFXRIC2%252BbnrrQ%3D%3D))  
 or better CD17CD100JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17CD100JO3F?qs=PXF%252Blbo4VJ7Sv5GDGZWsoQ%3D%3D))  
-  
+Alternatively:  
 since C2,C3 and C9 are used for controlling the ultrasonic frequencies (>20kHz) here in this circuit you may use instead  
 ceramic C0G(NP0) capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 100V or 250V / pitch 5mm or 7,5mm)  
 e.g. KEMET "[goldmax 300](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/C0G/KEMET_C1049_GOLDMAX_C0G_THT.pdf)" Series in THT version ([10pF/47pF stock at mouser](https://www2.mouser.com/c/passive-components/capacitors/ceramic-capacitors/mlccs-multilayer-ceramic-capacitors/multilayer-ceramic-capacitors-mlcc-leaded/?q=goldmax&capacitance=10%20pF%7C~47%20pF&dielectric=C0G%20%28NP0%29&lead%20spacing=5.08%20mm&tolerance=1%20%25&voltage%20rating%20dc=250%20VDC))  
