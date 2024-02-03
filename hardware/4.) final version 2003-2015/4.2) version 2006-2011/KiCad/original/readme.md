@@ -9,7 +9,8 @@ this is not the original Thel PCB but it's very like\* the original with the fol
   
 ----  
 
-#### remarks:
+### remarks:  
+#### C2,C3,C9: 
 in the original, mica capacitors from the US company "Cornell Dubilier Electronics" (CDE) are used for C2, C3 and C9  
 the [CD15-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mica%20glimmer/CDE_Silver_Mica_series_STD-DIPPED.pdf) or the better [CD17 Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mica%20glimmer/CDE_Series_CD17_CD18_high_frequency.pdf) is used:  
 * C2, C3 = 47pF / 1% / 500V / 6.9mm pitch / Type-No. CD15ED470FO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15ED470FO3?qs=9iVfQKk8ifFmXLRqX5bCNQ%3D%3D))  
