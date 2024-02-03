@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.75,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 1.2,
+          "height": 2.4,
+          "width": 2.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -455,6 +455,7 @@
         "name": "Highvolt",
         "nets": [
           "+UB1",
+          "/+UB1_1",
           "/+UB2",
           "/+UBv",
           "/+UBv1",
@@ -466,6 +467,10 @@
           "/driver_pos",
           "/driver_pos1",
           "/driver_pos2",
+          "/q19_coll",
+          "/q19_emit",
+          "/rel_foot",
+          "/rel_mid",
           "AMP Out"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
