@@ -19,7 +19,7 @@ or better CD17CD100JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail
   
 since C2,C3 and C9 are used for controlling the ultrasonic frequencies (>20kHz) here in this circuit you may use instead  
 ceramic C0G capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 100V or 205V / pitch 5mm or 7,5mm)  
-e.g. KEMET "[goldmax 300](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/C0G/KEMET_C1049_GOLDMAX_C0G_THT.pdf)" Series in THT version ([stock at mouser](https://www2.mouser.com/c/passive-components/capacitors/ceramic-capacitors/mlccs-multilayer-ceramic-capacitors/multilayer-ceramic-capacitors-mlcc-leaded/?q=goldmax&capacitance=10%20pF%7C~47%20pF&dielectric=C0G%20%28NP0%29&lead%20spacing=5.08%20mm&tolerance=1%20%25&voltage%20rating%20dc=250%20VDC))  
+e.g. KEMET "[goldmax 300](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/C0G/KEMET_C1049_GOLDMAX_C0G_THT.pdf)" Series in THT version ([10pF/47pF stock at mouser](https://www2.mouser.com/c/passive-components/capacitors/ceramic-capacitors/mlccs-multilayer-ceramic-capacitors/multilayer-ceramic-capacitors-mlcc-leaded/?q=goldmax&capacitance=10%20pF%7C~47%20pF&dielectric=C0G%20%28NP0%29&lead%20spacing=5.08%20mm&tolerance=1%20%25&voltage%20rating%20dc=250%20VDC))  
 They perform very well for high frequencies and are a very good alternative to the expensive Mica caps from CDE.  
 
 ----  
