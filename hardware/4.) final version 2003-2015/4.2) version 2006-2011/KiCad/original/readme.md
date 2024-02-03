@@ -27,7 +27,7 @@ They perform very well for high frequencies and are a very good alternative to t
 The dielectric material is important here: Do NOT use ceramic capacitors with a dielectric other than C0G (NP0) !  
   
 The footprint on my PCB is prepared for both pitches:  
-the odd 5.9mm for the Micas as well as the 5mm or 7.5mm for alternative capacitors  
+the odd 5.9mm for the Micas as well as 3.5mm / 5.0mm or 7.5mm for alternative capacitors  
  
 ----  
   
