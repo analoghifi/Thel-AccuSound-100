@@ -15,7 +15,8 @@ the [CD15-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and
 * C2, C3 = 47pF / 1% / 500V / 6.9mm pitch / Type-No. CD15ED470FO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15ED470FO3?qs=9iVfQKk8ifFmXLRqX5bCNQ%3D%3D))  
 or better CD17ED470JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17ED470JO3F?qs=nnhpPVbCybXjnSWSlsUlRA%3D%3D))
 * C9 = 10pF / 5% / 500V / 6.9mm pitch / Type-No. CD15CD100JO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15CD100JO3?qs=m9iv7GyUMnFXRIC2%252BbnrrQ%3D%3D))  
-or better CD17CD100JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17CD100JO3F?qs=PXF%252Blbo4VJ7Sv5GDGZWsoQ%3D%3D))  
+or better CD17CD100JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17CD100JO3F?qs=PXF%252Blbo4VJ7Sv5GDGZWsoQ%3D%3D))
+
 Alternatively:  
 since C2,C3 and C9 are used for controlling the ultrasonic frequencies (>20kHz) here in this circuit you may use instead  
 ceramic C0G(NP0) capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 100V or 250V / pitch 5mm or 7,5mm)  
