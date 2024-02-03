@@ -3,7 +3,7 @@
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * different board dimensions original: 200mm x 100mm -> this PCB: 200mm x 103mm  
 * using a combined 5.0mm/7.5mm pin spacing footprint for the small foil caps C12 and C23
-* using a combined 3.5mm/5.0mm/5.9mm/7.5mm pin spacing footprint for the Mica caps C2,C3 and C9 (see below)  
+* using a combined 3.5mm/5.0mm/5.9mm/7.5mm pin spacing footprint for the Mica caps C2, C3 and C9 (see below)  
   
 \*(same schematic / same 1-layer\** layout THT / same THT components in the same places on the board)  
 \**(strictly speaking, this KiCad PCB is a two-layer PCB with plated-through holes, but you can also (let) produce it as a classic 1-layer PCB with non-plated holes if you wish, since all the tracks are on the bottom side only)  
