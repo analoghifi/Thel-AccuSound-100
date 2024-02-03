@@ -2,7 +2,8 @@
 
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * different board dimensions original: 200mm x 100mm -> this PCB: 200mm x 103mm  
-* using a combined 5.0mm/7.5mm pin spacing footprint for the small foil caps C12 and C23  
+* using a combined 5.0mm/7.5mm pin spacing footprint for the small foil caps C12 and C23
+* using a combined 3.5mm/5.0mm/5.9mm/7.5mm pin spacing footprint for the Mica caps C2,C3 and C9 (see below)  
   
 \*(same schematic / same 1-layer\** layout THT / same THT components in the same places on the board)  
 \**(strictly speaking, this KiCad PCB is a two-layer PCB with plated-through holes, but you can also (let) produce it as a classic 1-layer PCB with non-plated holes if you wish, since all the tracks are on the bottom side only)  
@@ -11,7 +12,7 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 
 ### remarks:  
 #### C2,C3,C9: 
-in the original, mica capacitors from the US company "Cornell Dubilier Electronics" (CDE) are used for C2, C3 and C9  
+in the original, Mica capacitors from the US company "Cornell Dubilier Electronics" (CDE) are used for C2, C3 and C9  
 the [CD15-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mica%20glimmer/CDE_Silver_Mica_series_STD-DIPPED.pdf) or the better [CD17 Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mica%20glimmer/CDE_Series_CD17_CD18_high_frequency.pdf) is used:  
 * C2, C3 = 47pF / 1% / 500V / 5.9mm pitch / Type-No. CD15ED470FO3 ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD15ED470FO3?qs=9iVfQKk8ifFmXLRqX5bCNQ%3D%3D))  
 or better CD17ED470JO3F ([stock at Mouser](https://www2.mouser.com/ProductDetail/Cornell-Dubilier-CDE/CD17ED470JO3F?qs=nnhpPVbCybXjnSWSlsUlRA%3D%3D))
