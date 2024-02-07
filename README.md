@@ -35,8 +35,9 @@ https://web.archive.org/web/20150216004915/http://www.thel-audioworld.de/module/
 <img src="/hardware/3) version 1995-2003/accusound_1995-2003.jpg" />  
   
 https://web.archive.org/web/20020608091959/http://thel-audioworld.de:80/module/acuso/acuso.htm  
+
 ----  
-Kicad projects in this repo:  
+### Kicad projects in this repo:  
 * [version 2006-2011](https://github.com/analoghifi/Thel-AccuSound-100/tree/main/hardware/4.\)%20final%20version%202003-2015/4.2\)%20version%202006-2011/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
 * [version 2011-2015](https://github.com/analoghifi/Thel-AccuSound-100/tree/main/hardware/4.\)%20final%20version%202003-2015/4.3\)%20version%202011-2015/KiCad/original) | state: comin soon... | like the original, 1-layer, THT
 
